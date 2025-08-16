@@ -1,7 +1,13 @@
 package testScripts;
 
+import org.testng.annotations.Test;
+
 public class Test1 {
-	public static void main(String[] args) {
+	
+	@Test
+	public void Test_Jenkins_build() {
 		System.out.println("Hello from eclipse QA Engineer");
+
 	}
+	
 }
