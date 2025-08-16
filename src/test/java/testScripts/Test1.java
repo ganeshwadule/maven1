@@ -5,4 +5,3 @@ public class Test1 {
 		System.out.println("Hello from eclipse QA Engineer");
 	}
 }
-s
