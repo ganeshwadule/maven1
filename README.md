@@ -1,1 +1,1 @@
-Dummy project to check Jenkins
+Dummy project to check Jenkins Poll SCM Feature
